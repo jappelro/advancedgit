@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is acttually a .txt file. I don't like it!
+=======
+this is acttually a .txt file. I like it!
+>>>>>>> newbranch
