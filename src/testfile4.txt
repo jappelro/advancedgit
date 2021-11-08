@@ -1,0 +1,4 @@
+>>>>>>> newbranch
+=======
+this is actually a .txt file. I like it! This is not misspelled anymore.
+>>>>>>> 6dea82f (not misspelled anymore)
